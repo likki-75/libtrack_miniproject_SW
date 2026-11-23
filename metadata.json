@@ -1,0 +1,8 @@
+{
+  "name": "LibTrack – Library Management System",
+  "description": "Library Management and Book Borrowing System with role-based access, real-time inventory transactions, configurable fine calculator, and Software Testing Lab suite (Lab Sheets 1–14).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
